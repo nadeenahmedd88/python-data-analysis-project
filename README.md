@@ -1,12 +1,12 @@
 #  Sentiment Data Analysis Project
 
-## 📌 Project Overview
+##  Project Overview
 This project focuses on analyzing  Sentiment  data using Python.  
 The analysis covers data cleaning, exploratory data analysis (EDA), regression analysis, and time series analysis to extract insights about user engagement and sentiment over time.
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 The dataset contains  Sentiment  posts with textual content, sentiment labels, timestamps, and engagement metrics.
 
 ### Columns include:
@@ -23,7 +23,7 @@ The dataset contains  Sentiment  posts with textual content, sentiment labels, t
 
 ---
 
-## 🧹 Data Cleaning & Preprocessing
+## Data Cleaning & Preprocessing
 - Loaded the dataset using pandas
 - Checked missing values
 - Checked duplicate records
@@ -32,7 +32,7 @@ The dataset contains  Sentiment  posts with textual content, sentiment labels, t
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 - Calculated summary statistics (mean, median, mode, standard deviation)
 - Visualized data distributions using histograms, boxplots, and scatter plots
 - Analyzed engagement metrics such as Likes and Retweets
@@ -40,21 +40,21 @@ The dataset contains  Sentiment  posts with textual content, sentiment labels, t
 
 ---
 
-## 📈 Regression Analysis
+##  Regression Analysis
 - Built a simple linear regression model to predict engagement metrics
 - Split the dataset into training and testing sets
 - Evaluated the model using R-squared and Mean Squared Error (MSE)
 
 ---
 
-## ⏱️ Time Series Analysis
+##  Time Series Analysis
 - Analyzed posting activity and engagement over time
 - Identified trends and seasonal patterns
 - Applied time series decomposition and moving averages
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Python
 - Pandas
 - Matplotlib
@@ -63,7 +63,5 @@ The dataset contains  Sentiment  posts with textual content, sentiment labels, t
 - Statsmodels
 
 ---
-## Conclusion
-This project demonstrates practical data analysis skills on real-world Sentiment data, from preprocessing to advanced analytical techniques.
 ## 🚀 Conclusion
 This project demonstrates practical data analysis skills on real-world social media data, from preprocessing to advanced analytical techniques.
